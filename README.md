@@ -9,6 +9,8 @@ The Project includes staff, teacher, librarian and student users.
 - Ms. Paing Phyo Su/ 6431501172 (MFU-ID)
  	
 
+# Class Diagram for the program
 
+https://github.com/phyoethura/Library-Program/blob/main/sabaideemai_group%20work3.pdf
 
 
