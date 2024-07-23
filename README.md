@@ -11,6 +11,6 @@ The Project includes staff, teacher, librarian and student users.
 
 # Class Diagram for the program
 
-https://github.com/phyoethura/Library-Program/blob/main/sabaideemai_group%20work3.pdf
 
-![alt text]([[http://url/to/img.png](https://github.com/phyoethura/Library-Program/blob/main/sabaideemai_group%20work3.pdf](https://github.com/phyoethura/Library-Program/blob/main/sabaideemai_group%20work3-1.png)))
+
+![alt text]([[https://github.com/phyoethura/Library-Program/blob/main/sabaideemai_group%20work3-1.png)))
