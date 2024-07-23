@@ -11,4 +11,4 @@ The Project includes staff, teacher, librarian and student users.
 
 # Class Diagram for the program
 
-![Alt text](sabaideemai_group work3-1.png)
+![Alt text](image.png)
